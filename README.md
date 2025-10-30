@@ -50,3 +50,15 @@ pacman-ai-game/
 | **R** | Restart game after win/loss |
 | **ESC** | Quit game |
 | 🖱️ **Mouse Click** | Click "START" button on the home screen |
+
+## 🧠 AI Logic (A* Pathfinding)
+
+The ghosts use the **A\*** (A-Star) algorithm implemented in `astar.py` to find the optimal path to Pac-Man:
+
+- Each ghost **recalculates its path periodically**.  
+- The path **avoids walls and obstacles**.  
+- Different ghost modes (**chase**, **ambush**, **random**, **patrol**) can be easily extended.  
+
+📘 The A\* logic prioritizes nodes with the lowest **(cost + heuristic)** using **Manhattan distance** for pathfinding.
+
+---
