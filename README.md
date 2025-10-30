@@ -1,7 +1,7 @@
 <h1 align="center">🟡 Pac-Man AI Game</h1>
 
 <p align="center">
-  A modern Python implementation of the **classic Pac-Man**, built using <b>Pygame</b>.<br>  
+  A modern Python implementation of the <b>classic Pac-Man</b>, built using <b>Pygame</b>.<br>  
 Includes <b>AI-controlled ghosts</b> powered by the <b>A* pathfinding algorithm</b> for realistic chasing behavior.</b>
 </p>
 
