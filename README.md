@@ -43,9 +43,10 @@ pacman-ai-game/
 ```
 
 
-# 🎮 Controls
-| Key	| Action |
-| ⬆️ / ⬇️ / ⬅️ / ➡️	| Move Pac-Man |
-| R	| Restart game after win/loss |
-| ESC	| Quit game |
-|🖱️ Mouse	Click | "START" button on the home screen |
+
+| Key | Action |
+|-----|---------|
+| ⬆️ / ⬇️ / ⬅️ / ➡️ | Move Pac-Man |
+| **R** | Restart game after win/loss |
+| **ESC** | Quit game |
+| 🖱️ **Mouse Click** | Click "START" button on the home screen |
