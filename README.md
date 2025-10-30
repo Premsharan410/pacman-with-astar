@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue?logo=python" alt="Python">
   <img src="https://img.shields.io/badge/Pygame-2.0%2B-green?logo=pygame" alt="Pygame">
-  <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License">
 </p>
 
 
