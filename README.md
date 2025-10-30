@@ -41,8 +41,9 @@ pacman-ai-game/
 ├── utils.py            # Utility functions for grid-pixel conversion
 └── setting.py          # Constants like colors and screen size
 ```
+---
 
-
+## 🎮 Controls
 
 | Key | Action |
 |-----|---------|
@@ -50,6 +51,8 @@ pacman-ai-game/
 | **R** | Restart game after win/loss |
 | **ESC** | Quit game |
 | 🖱️ **Mouse Click** | Click "START" button on the home screen |
+
+---
 
 ## 🧠 AI Logic (A* Pathfinding)
 
@@ -60,5 +63,3 @@ The ghosts use the **A\*** (A-Star) algorithm implemented in `astar.py` to find 
 - Different ghost modes (**chase**, **ambush**, **random**, **patrol**) can be easily extended.  
 
 📘 The A\* logic prioritizes nodes with the lowest **(cost + heuristic)** using **Manhattan distance** for pathfinding.
-
----
