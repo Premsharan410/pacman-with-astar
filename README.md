@@ -29,7 +29,7 @@ Includes **AI-controlled ghosts** powered by the **A* pathfinding algorithm** fo
 ## 🧩 Project Structure
 
 ```
-pacman-ai-game/
+pacman-with-astar/
 │
 ├── main.py             # Entry point (runs the whole game)
 ├── home_screen.py      # Start menu with animated ghosts and Start button
