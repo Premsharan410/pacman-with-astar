@@ -39,6 +39,13 @@ pacman-ai-game/
 ├── astar.py            # A* algorithm for ghost movement
 ├── maze.py             # Maze structure and dots generation
 ├── utils.py            # Utility functions for grid-pixel conversion
-├── setting.py          # Constants like colors and screen size
-
+└── setting.py          # Constants like colors and screen size
 ```
+
+
+# 🎮 Controls
+| Key	| Action |
+| ⬆️ / ⬇️ / ⬅️ / ➡️	| Move Pac-Man |
+| R	| Restart game after win/loss |
+| ESC	| Quit game |
+|🖱️ Mouse	Click | "START" button on the home screen |
