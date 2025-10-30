@@ -1,7 +1,8 @@
 <h1 align="center">🟡 Pac-Man AI Game</h1>
 
 <p align="center">
-  <b>A modern Python remake of the classic Pac-Man — powered by Pygame and A* pathfinding AI.</b>
+  <b>A modern Python implementation of the **classic Pac-Man**, built using **Pygame**.<br>  
+Includes **AI-controlled ghosts** powered by the **A* pathfinding algorithm** for realistic chasing behavior.</b>
 </p>
 
 <p align="center">
@@ -11,10 +12,6 @@
 
 
 
-# 🟡 Pac-Man AI Game
-
-A modern Python implementation of the **classic Pac-Man**, built using **Pygame**.  
-Includes **AI-controlled ghosts** powered by the **A* pathfinding algorithm** for realistic chasing behavior.
 
 ---
 
